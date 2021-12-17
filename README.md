@@ -2,19 +2,19 @@
 
 ## REQUIRED PACKAGES
 
-import requests
-import json
-import re
-import html
-from time import sleep
-import os
-from treelib import Tree
-from pandas.core.frame import DataFrame
-import plotly
-import plotly.graph_objects as go
-import plotly.offline as of
-import plotly.express as px
-from geopy.distance import geodesic
+* import requests
+* import json
+* import re
+* import html
+* from time import sleep
+* import os
+* from treelib import Tree
+* from pandas.core.frame import DataFrame
+* import plotly
+* import plotly.graph_objects as go
+* import plotly.offline as of
+* import plotly.express as px
+* from geopy.distance import geodesic
 
 ## RUNNING INSTRUCTIONS
 
